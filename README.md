@@ -10,6 +10,6 @@ are multiple common subsequences with the same maximum length, print all of them
 <h5>Input Format</h5>
 Two strings A and B given in two lines.</br>
 
-<h5>Constraints</h5></br>
+<h5>Constraints</h5>
 The characters of strings are English lowercase alphabetic letters.</br>
 0 <= length(A), length(B) <= 100
