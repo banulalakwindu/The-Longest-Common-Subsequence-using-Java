@@ -7,7 +7,7 @@ is a subsequence, with maximal length, which is common to both the sequences. </
 Given two strings, A = a1a2...an and B = b1b2...bm, find the longest common subsequence and print it. If there 
 are multiple common subsequences with the same maximum length, print all of them.
 </p></br>
-<h5>Input Format</h5></br>
+<h5>Input Format</h5>
 Two strings A and B given in two lines.</br>
 
 <h5>Constraints</h5></br>
